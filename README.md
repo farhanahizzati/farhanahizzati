@@ -1,6 +1,6 @@
 # Hello there, I'm **Farhanah** from Malaysia! 👋
 
-- 🔭 I'm currently a **Master's student** majoring in **Software Engineering** at **Universiti Malaya, Kuala Lumpur, Malaysia**.
+- 🔭 I'm currently participating in the **Data Analytics Bootcamp** under  **K Youth Development Programme** by **Excelerate Asia** and **General Assembly**.
 - 🌱 I’m working on my **dissertation**, titled **"Utilizing Mixed Reality To Provide Low-Cost Alternative Teaching Style To Musical Instrument Education"**.
 - 💡 I'm interested in learning **Firebase and Django** for back-end development, and **Svelte, Vue and React** for front-end development.
 - 👯 I’m open to collaborating on any projects, be it **web, game or mobile app development**, to increase my development knowledge in those fields.
