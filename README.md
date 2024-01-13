@@ -1,9 +1,9 @@
 # Hello there, I'm **Farhanah** from Malaysia! 👋
 
--   🔭 I'm currently participating in the **Data Analytics Bootcamp** under **K Youth Development Programme** by **Excelerate Asia** and **General Assembly**.
--   💡 I'm currently learning **SQL and Tableau** for my future data analyst career.
+-   🔭 I'm currently working as a **Data Analyst** at **Generali Malaysia**.
+-   💡 I'm currently learning **AWS, Python and SAP BI** for my data analyst career.
 -   👯 I’m open to collaborating on any data projects to increase my development knowledge and widen my connections.
--   🥅 2023 Goals: **Upskilling myself 🎓, be persistent and persevere 💪🏻, and enjoy better things 😉!**
+-   🥅 2024 Goals: **Upskilling myself 🎓, be persistent and persevere 💪🏻, and enjoy better things 😉!**
 -   ⚡ Fun fact: I love **EXO, NCT Dream, aespa and NewJeans**. 🎶
 
 ### Programming Languages
@@ -13,6 +13,10 @@
 ### Data Analytics Tools
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Databases
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Design Tools
 
